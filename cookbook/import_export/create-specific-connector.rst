@@ -53,7 +53,7 @@ An item step is configured with 3 elements, a reader, a processor and a writer.
 
 As seen previously, we can use existing elements, but in this case, we will create our own elements so you will be able to do it by yourself when needed.
 
-During the development, a good practise is to use dummy elements as in this example:
+During the development, a good practice is to use dummy elements as in this example:
 
 .. literalinclude:: ../../src/Acme/Bundle/DemoConnectorBundle/Resources/config/batch_jobs.yml
    :language: yaml
